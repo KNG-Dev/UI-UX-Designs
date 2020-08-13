@@ -1,5 +1,4 @@
 # UI-UX-Designs
 Some designs created using Sketch
 
-
-![](Simple Budget Overview.png)
+<img src="Simple Budget Overview.png" alt="Screenshot">
