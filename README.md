@@ -2,4 +2,4 @@
 Some designs created using Sketch
 
 
-![](AppleWalletAnimation.gif)
+![](Simple Budget Overview.png)
